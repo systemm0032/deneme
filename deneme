@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ladin Ağacı Hakkında Bilgi">
+  <title>Ladin Ağacı</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      position: relative;
+      height: 500px;
+      width: 2000px;
+    }
+    h1 {
+      color: #2c5a27;
+      text-align: center;
+    }
+    img {
+      max-width: 350px;
+      border-radius: 50%;
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      transform: translate(-50%, -50%);
+      height: 450px;
+      object-fit: cover;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border: 5px solid #fff;
+    }
+    p {
+      line-height: 1.6;
+      color: #333;
+      margin-left: 180px;
+    }
+    .info-box {
+      background-color: #e9f7ef;
+      padding: 15px;
+      border-radius: 5px;
+      margin-top: 20px;
+      margin-left: 180px;
+    }
+    .info-box h2 {
+      color: #2c5a27;
+    }
+    .info-box ul {
+      padding-left: 20px;
+    }
+    .info-box ul li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Ladin Ağacı</h1>
+    <img src="ağaç.jpg" alt="Ladin Ağacı">
+    <p>Ladin ağaçları, genellikle soğuk ve dağlık bölgelerde yetişen iğne yapraklı ağaçlardır. Geniş bir yayılma alanına sahiptirler ve özellikle Kuzey Avrupa, Asya ve Kuzey Amerika'da bulunurlar. Ormanlarda yaygın olarak yetişirler ve yaprak dökmeyen özellikleriyle bilinirler. Genellikle çam ailesinin bir üyesi olarak tanınır.</p>
+    <div class="info-box">
+      <h2>Ladin Ağacı Özellikleri</h2>
+      <ul>
+        <li><strong>Bilimsel Adı:</strong> Picea</li>
+        <li><strong>Yaygın Adı:</strong> Ladin</li>
+        <li><strong>Yetişme Koşulları:</strong> Soğuk ve serin iklimler, yüksek rakımlı bölgeler.</li>
+        <li><strong>Yapraklar:</strong> İğne yapraklı, dört köşeli yapraklar.</li>
+        <li><strong>Meyve:</strong> Konik biçimde kozalaklar.</li>
+  
